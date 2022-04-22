@@ -19,8 +19,7 @@ Skills: Flutter / Html / Python
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vitesh12)](https://github.com/anuraghazra/github-readme-stats)
 
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vitesh12&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=vitesh12&show_icons=true)
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=vitesh12&theme=highcontrast&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
