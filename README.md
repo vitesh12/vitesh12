@@ -24,3 +24,4 @@ Skills: Flutter / Html / Python
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=vitesh12&theme=highcontrast&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 ![Profile views](https://gpvc.arturio.dev/vitesh12)  
+[![Github](https://img.shields.io/github/followers/vitesh12?label=Follow&style=social)](https://github.com/vitesh12)
