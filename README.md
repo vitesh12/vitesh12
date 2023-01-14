@@ -2,12 +2,12 @@
 #### I Study In Sathyabama University Chennai
 
 
-Skills: Flutter / Html / Python
+Skills: Python / Flutter
 
-- 🔭 I’m currently working on **Flutter projects**
-- 🌱 I’m currently learning **Figma.**
+- 🔭 I’m currently working on **Python projects**
+- 🌱 I’m currently learning **Html.**
 - 🤝 I’m looking for help with **Open Source Projects**
-- 💬 Ask me about **flutter, Html**
+- 💬 Ask me about **Python, flutter**
 - 📫 How to reach me: **[Instagram](https://instagram.com/vitesh9863)**
 - ⚡ Fun fact: I am a foodie 🍕
 
