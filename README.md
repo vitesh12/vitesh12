@@ -1,14 +1,14 @@
 ### Hi there 👋, It's me VITESH
-#### I Study In Sathyabama University Chennai
+#### CSE Graduate from Sathyabama University Chennai.
 
 
-Skills: Python / Flutter
+Skills: Python | SQL | HTML | CSS | Bootstrap
 
 - 🔭 I’m currently working on **Python projects**
-- 🌱 I’m currently learning **Html.**
+- 🌱 I’m currently learning **JS.**
 - 🤝 I’m looking for help with **Open Source Projects**
-- 💬 Ask me about **Python, flutter**
-- 📫 How to reach me: **[Instagram](https://instagram.com/vitesh9863)**
+- 💬 Ask me about **Python, SQL, HTML, CSS & Bootstrap**
+- 📫 How to reach me: **[Instagram](https://instagram.com/vitesh._)**
 - ⚡ Fun fact: I am a foodie 🍕
 
 
@@ -22,6 +22,5 @@ Skills: Python / Flutter
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=vitesh12&show_icons=true)
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=vitesh12&theme=highcontrast&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-
-![Profile views](https://gpvc.arturio.dev/vitesh12)  
+ 
 [![Github](https://img.shields.io/github/followers/vitesh12?label=Follow&style=social)](https://github.com/vitesh12)
